@@ -1,0 +1,31 @@
+{
+    "expo": {
+        "name": "ETL Sample Submission",
+        "version": "0.0.3",
+        "slug": "etc-sample-submission",
+        "sdkVersion": "23.0.0",
+        "orientation": "portrait",
+        "privacy": "public",
+        "icon": "./app.png",
+        "primaryColor": "#95C335",
+        "splash": {
+            "image": "./splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#50D2C2"
+        },
+        "androidStatusBarColor": "#50D2C2",
+        "androidStatusBar": {
+            "barStyle": "light-content",
+            "backgroundColor": "#50D2C2"
+        },
+        "ios": {
+            "bundleIdentifier": "com.etc.etlsamplesubmission",
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "com.etc.etlsamplesubmission",
+            "permissions": []
+        },
+
+    }
+}
